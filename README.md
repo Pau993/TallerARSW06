@@ -50,4 +50,5 @@ Y rectificamos que no existan errores en la consola de desarrollador del navegad
 
 6. Se modifica el codigo para permitir el cambio entre 'apimock' y 'apiclient' con solo una linea de codigo.
 
+![image](https://github.com/user-attachments/assets/cc53bdcb-68c7-44d4-a59e-4fcbdb445ddd)
 
