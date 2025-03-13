@@ -28,9 +28,26 @@ Y rectificamos que no existan errores en la consola de desarrollador del navegad
 
 ![image](https://github.com/user-attachments/assets/544438e4-dcea-4845-9a2d-0d9309892430)
 
+# Front-End - Logica
 
+1. Se crea el modulo a manera de controlador con mas planos a los autorees 'quemados' en el codigo.
 
+![image](https://github.com/user-attachments/assets/8bef8a71-3dde-4848-b317-fee1560fb743)
 
+2. Se agregan los modulos a la pagina HTML
 
+![image](https://github.com/user-attachments/assets/fa69fb80-17e2-4b3a-9dca-9945e3077504)
+
+3. Se hacen los cambios respectivos para que el modulo mantenga de forma privada el nombre del autor, el listado de nombre y tamaño de los planos del autor seleccionado.
+
+4. En el modulo 'app.js' se genera la operacion publica que permita actualizar el listado de los planos segun cierta condiciones.
+
+![image](https://github.com/user-attachments/assets/42153728-c35c-47d2-b176-ef318413c2cc)
+
+5. Se agrega la operacion getBlueprintsByNameAndAuthor de 'apimock.js' al modulo 'app.js' y se permite seleccionar uno de éstos y graficarlo.
+
+![image](https://github.com/user-attachments/assets/45d2da7d-57b2-40f4-83bd-bbb7e4773704)
+
+6. Se modifica el codigo para permitir el cambio entre 'apimock' y 'apiclient' con solo una linea de codigo.
 
 
