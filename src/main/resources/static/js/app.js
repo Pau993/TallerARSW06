@@ -1,3 +1,6 @@
+var  useMockData = false;
+var api = useMockData ? apimock : apiclient;
+
 var BlueprintsApp = (function () {
     var blueprints = [];
     var selectedAuthor = '';
